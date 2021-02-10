@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          nisacharan
+description:    ""
 # baseurl:        "/tale"
 url:            "https://nisacharan.github.io"
 
@@ -9,7 +9,7 @@ url:            "https://nisacharan.github.io"
 
 # Author
 author:
-  name:         Sai Charan Nivarthi
+  name:         nisacharan
   url:          nisacharan.github.io
   email:        saicharan.nivarthi@gmail.com
 # Build settings

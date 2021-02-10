@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Example Content"
-author: "Chester"
+# author: "Chester"
 tags: Example
 ---
 
