@@ -2,5 +2,5 @@
 layout: post
 title:  "notes on Neural Nets!"
 # author: "Jekyll"
-tags: neural nets, AI
+tags: 
 ---
