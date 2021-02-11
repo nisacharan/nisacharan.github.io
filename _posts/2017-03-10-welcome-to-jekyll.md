@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "notes on Neural Nets!"
 # author: "Jekyll"
-tags: Jekyll
+tags: neural nets
 ---
